@@ -1,7 +1,7 @@
 name: Hitori Music n Media
 favicon: null
-layout_spectrum: 0.8208695887587965
-typography_spectrum: 0.2753048955928534
+layout_spectrum: 1
+typography_spectrum: 0.64547
 title: Hitori Music n Media
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8681037412025034
-  lightness: 0.9733238609042019
-  saturation: 0.06100435554981232
-  rhythmicContrast: 0.9063030434772372
+    - '#fcfcfc'
+    - '#3957c0'
+    - '#19191a'
+    - '#cbcbcb'
+    - '#a2a2a2'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
