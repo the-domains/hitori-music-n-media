@@ -2,6 +2,7 @@ name: Hitori Music n Media
 favicon: null
 layout_spectrum: 0.8208695887587965
 typography_spectrum: 0.2753048955928534
+title: Hitori Music n Media
 cta:
   domain: null
   bucket: null
