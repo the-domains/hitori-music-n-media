@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to Hitori Music n Media, the best place for new artists to acquire experience and get the projects they dream of produced. You can brows the content to see what Hito has produced (or helped produce) or contact us here with a pitch, and we will hook you up with some leads. Content here may include still images and animations as well as games, films, and stories. If it can be imagined, we want it to be here...within reason. '
-datePublished: '2016-04-24T04:48:02.864Z'
-dateModified: '2016-04-24T04:47:54.037Z'
+datePublished: '2016-04-24T04:50:47.825Z'
+dateModified: '2016-04-24T04:50:41.999Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-welcome-to-hitori-music-n-media-the-best-place-for-new-arti.md
